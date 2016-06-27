@@ -1,0 +1,7 @@
+#!/bin/bash
+
+scutil="/usr/sbin/scutil"
+
+${scutil} --set HostName ""
+
+exit 0
