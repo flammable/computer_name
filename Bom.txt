@@ -1,0 +1,9 @@
+.	40755	0/0
+./Library	40755	0/0
+./Library/LaunchDaemons	40755	0/0
+./Library/LaunchDaemons/._com.mikesolin.computer_name.plist	100644	0/0	0	0
+./Library/LaunchDaemons/com.mikesolin.computer_name.plist	100644	0/0	517	2406121057
+./usr	40755	0/0
+./usr/local	40755	0/0
+./usr/local/bin	40755	0/0
+./usr/local/bin/computer_name.sh	100644	0/0	211	2913353494
